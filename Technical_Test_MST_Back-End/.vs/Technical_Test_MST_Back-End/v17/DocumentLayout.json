@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\helper\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\helper\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\models\\response\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\models\\response\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\models\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\models\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\models\\request\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\models\\request\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|e:\\rifki\\technicaltest_mst\\technical_test_mst_back-end\\technical_test_mst_back-end\\models\\request\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5E348C-A730-4E0B-8D26-EFAB2CC11824}|Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj|solutionrelative:technical_test_mst_back-end\\models\\request\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Program.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Program.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Program.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:59:55.746Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:06:15.682Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Services\\EmailService.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Services\\EmailService.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:14:26.413Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Request\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Models\\Request\\ForgotPasswordRequest.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Request\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Models\\Request\\ForgotPasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:48:21.312Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Request\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Models\\Request\\ResetPasswordRequest.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Request\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Models\\Request\\ResetPasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:46:59.082Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Models\\Users.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Users.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:19:22.73Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Helper\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Helper\\EncryptionHelper.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Helper\\EncryptionHelper.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Helper\\EncryptionHelper.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:33:43.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Response\\BaseResult.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Models\\Response\\BaseResult.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Response\\BaseResult.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Models\\Response\\BaseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:27:24.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Models\\BaseModel.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:44:02.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Request\\UserRequest.cs",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\Models\\Request\\UserRequest.cs",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Models\\Request\\UserRequest.cs",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\Models\\Request\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:23:39.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\appsettings.json",
+              "RelativeDocumentMoniker": "Technical_Test_MST_Back-End\\appsettings.json",
+              "ToolTip": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\appsettings.json",
+              "RelativeToolTip": "Technical_Test_MST_Back-End\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T15:22:06.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

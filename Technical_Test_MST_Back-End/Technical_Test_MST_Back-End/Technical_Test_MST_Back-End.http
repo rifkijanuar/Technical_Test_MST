@@ -1,0 +1,6 @@
+@Technical_Test_MST_Back_End_HostAddress = http://localhost:5194
+
+GET {{Technical_Test_MST_Back_End_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
