@@ -4481,19 +4481,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zazem\\.nuget\\packages\\": {}
+    "C:\\Users\\Rifki\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj",
+      "projectUniqueName": "C:\\RIFKI\\TestKerja\\TechnicalTestMST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj",
       "projectName": "Technical_Test_MST_Back-End",
-      "projectPath": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj",
-      "packagesPath": "C:\\Users\\Zazem\\.nuget\\packages\\",
-      "outputPath": "E:\\Rifki\\TechnicalTest_MST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\obj\\",
+      "projectPath": "C:\\RIFKI\\TestKerja\\TechnicalTestMST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End.csproj",
+      "packagesPath": "C:\\Users\\Rifki\\.nuget\\packages\\",
+      "outputPath": "C:\\RIFKI\\TestKerja\\TechnicalTestMST\\Technical_Test_MST_Back-End\\Technical_Test_MST_Back-End\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Zazem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rifki\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4579,16 +4579,20 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
   "logs": [
     {
-      "code": "NU1900",
+      "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+      "message": "Package 'MimeKit' 4.6.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-gmc6-fwg3-75m5",
+      "libraryId": "MimeKit",
+      "targetGraphs": [
+        "net8.0"
+      ]
     }
   ]
 }
